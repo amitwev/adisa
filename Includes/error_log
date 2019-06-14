@@ -1,0 +1,78 @@
+[08-Jan-2019 03:14:08 UTC] PHP Warning:  require(../php/Products.php): failed to open stream: No such file or directory in /home/drordv/public_html/Includes/Collection.php on line 99
+[08-Jan-2019 03:14:08 UTC] PHP Warning:  require(../php/Products.php): failed to open stream: No such file or directory in /home/drordv/public_html/Includes/Collection.php on line 99
+[08-Jan-2019 03:14:08 UTC] PHP Fatal error:  require(): Failed opening required '../php/Products.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/drordv/public_html/Includes/Collection.php on line 99
+[08-Jan-2019 03:14:11 UTC] PHP Warning:  require_once(../php/User.php): failed to open stream: No such file or directory in /home/drordv/public_html/Includes/Login.php on line 144
+[08-Jan-2019 03:14:11 UTC] PHP Fatal error:  require_once(): Failed opening required '../php/User.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/drordv/public_html/Includes/Login.php on line 144
+[08-Jan-2019 03:25:20 UTC] PHP Warning:  require(../php/Products.php): failed to open stream: No such file or directory in /home/drordv/public_html/Includes/Collection.php on line 99
+[08-Jan-2019 03:25:20 UTC] PHP Warning:  require(../php/Products.php): failed to open stream: No such file or directory in /home/drordv/public_html/Includes/Collection.php on line 99
+[08-Jan-2019 03:25:20 UTC] PHP Fatal error:  require(): Failed opening required '../php/Products.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/drordv/public_html/Includes/Collection.php on line 99
+[08-Jan-2019 03:25:27 UTC] PHP Warning:  require_once(../php/User.php): failed to open stream: No such file or directory in /home/drordv/public_html/Includes/Login.php on line 144
+[08-Jan-2019 03:25:27 UTC] PHP Fatal error:  require_once(): Failed opening required '../php/User.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/drordv/public_html/Includes/Login.php on line 144
+[08-Jan-2019 03:26:04 UTC] PHP Warning:  require_once(../php/User.php): failed to open stream: No such file or directory in /home/drordv/public_html/Includes/Login.php on line 144
+[08-Jan-2019 03:26:04 UTC] PHP Fatal error:  require_once(): Failed opening required '../php/User.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/drordv/public_html/Includes/Login.php on line 144
+[08-Jan-2019 03:39:43 UTC] PHP Warning:  require(../php/Products.php): failed to open stream: No such file or directory in /home/drordv/public_html/Includes/Collection.php on line 99
+[08-Jan-2019 03:39:43 UTC] PHP Warning:  require(../php/Products.php): failed to open stream: No such file or directory in /home/drordv/public_html/Includes/Collection.php on line 99
+[08-Jan-2019 03:39:43 UTC] PHP Fatal error:  require(): Failed opening required '../php/Products.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/drordv/public_html/Includes/Collection.php on line 99
+[08-Jan-2019 03:40:01 UTC] PHP Warning:  require_once(../php/User.php): failed to open stream: No such file or directory in /home/drordv/public_html/Includes/Login.php on line 144
+[08-Jan-2019 03:40:01 UTC] PHP Fatal error:  require_once(): Failed opening required '../php/User.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/drordv/public_html/Includes/Login.php on line 144
+[08-Jan-2019 03:41:33 UTC] PHP Warning:  require_once(/home/drordv/public_html/myPrograms/Adisa03012019/php/Database.php): failed to open stream: No such file or directory in /home/drordv/public_html/php/init.php on line 3
+[08-Jan-2019 03:41:33 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/drordv/public_html/myPrograms/Adisa03012019/php/Database.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/drordv/public_html/php/init.php on line 3
+[08-Jan-2019 03:44:44 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/drordv/public_html/php/User.php on line 31
+[08-Jan-2019 03:44:56 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/drordv/public_html/php/User.php on line 31
+[08-Jan-2019 03:52:02 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/drordv/public_html/php/Products.php on line 44
+[08-Jan-2019 03:54:26 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/drordv/public_html/php/Products.php on line 44
+[08-Jan-2019 03:54:31 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/drordv/public_html/php/Products.php on line 44
+[08-Jan-2019 08:55:38 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/drordv/public_html/php/User.php on line 31
+[08-Jan-2019 09:14:39 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in /home/drordv/public_html/php/User.php on line 35
+[10-Jan-2019 09:50:08 UTC] PHP Fatal error:  Cannot redeclare class User in /home/drordv/public_html/php/User.php on line 6
+[10-Jan-2019 09:50:35 UTC] PHP Fatal error:  Cannot redeclare class User in /home/drordv/public_html/php/User.php on line 6
+[10-Jan-2019 22:22:54 UTC] PHP Warning:  include(php/footer.php): failed to open stream: No such file or directory in /home/drordv/public_html/Includes/myAccount.php on line 172
+[10-Jan-2019 22:22:54 UTC] PHP Warning:  include(php/footer.php): failed to open stream: No such file or directory in /home/drordv/public_html/Includes/myAccount.php on line 172
+[10-Jan-2019 22:22:54 UTC] PHP Warning:  include(): Failed opening 'php/footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/drordv/public_html/Includes/myAccount.php on line 172
+[13-Jan-2019 01:34:41 UTC] PHP Parse error:  syntax error, unexpected '$userAddedSucessfuly' (T_VARIABLE) in /home/drordv/public_html/Includes/Login.php on line 190
+[13-Jan-2019 01:35:09 UTC] PHP Parse error:  syntax error, unexpected '$errorAddedUser' (T_VARIABLE) in /home/drordv/public_html/Includes/Login.php on line 191
+[14-Jan-2019 18:44:43 UTC] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE), expecting function (T_FUNCTION) in /home/drordv/public_html/php/User.php on line 98
+[14-Jan-2019 18:54:03 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/drordv/public_html/php/User.php on line 84
+[14-Jan-2019 18:55:07 UTC] PHP Fatal error:  Call to undefined function checkUserName() in /home/drordv/public_html/php/User.php on line 77
+[14-Jan-2019 18:57:04 UTC] PHP Fatal error:  Call to undefined function checkUserName() in /home/drordv/public_html/php/User.php on line 77
+[14-Jan-2019 18:57:41 UTC] PHP Fatal error:  Call to undefined function checkUserName() in /home/drordv/public_html/php/User.php on line 77
+[14-Jan-2019 18:59:29 UTC] PHP Fatal error:  Call to undefined function checkUserName() in /home/drordv/public_html/php/User.php on line 77
+[15-Jan-2019 21:50:19 UTC] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE), expecting function (T_FUNCTION) in /home/drordv/public_html/php/User.php on line 124
+[15-Jan-2019 22:15:12 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/drordv/public_html/Includes/Login.php on line 7
+[16-Jan-2019 17:26:31 UTC] PHP Fatal error:  Cannot access empty property in /home/drordv/public_html/php/Products.php on line 16
+[16-Jan-2019 17:29:56 UTC] PHP Fatal error:  Cannot access empty property in /home/drordv/public_html/php/Products.php on line 16
+[16-Jan-2019 17:30:22 UTC] PHP Fatal error:  Cannot access empty property in /home/drordv/public_html/php/Products.php on line 16
+[16-Jan-2019 17:30:24 UTC] PHP Fatal error:  Cannot access empty property in /home/drordv/public_html/php/Products.php on line 16
+[16-Jan-2019 17:30:36 UTC] PHP Fatal error:  Cannot access empty property in /home/drordv/public_html/php/Products.php on line 16
+[16-Jan-2019 17:32:40 UTC] PHP Fatal error:  Cannot access empty property in /home/drordv/public_html/php/Products.php on line 16
+[16-Jan-2019 17:33:28 UTC] PHP Fatal error:  Cannot access empty property in /home/drordv/public_html/php/Products.php on line 16
+[16-Jan-2019 17:33:43 UTC] PHP Fatal error:  Cannot access empty property in /home/drordv/public_html/php/Products.php on line 16
+[16-Jan-2019 17:36:01 UTC] PHP Parse error:  syntax error, unexpected 'Array' (T_ARRAY) in /home/drordv/public_html/php/Products.php on line 69
+[16-Jan-2019 17:36:28 UTC] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/drordv/public_html/php/Products.php on line 69
+[16-Jan-2019 17:37:06 UTC] PHP Fatal error:  Cannot access empty property in /home/drordv/public_html/php/Products.php on line 16
+[16-Jan-2019 17:37:59 UTC] PHP Fatal error:  Cannot access empty property in /home/drordv/public_html/php/Products.php on line 16
+[16-Jan-2019 17:41:25 UTC] PHP Fatal error:  Using $this when not in object context in /home/drordv/public_html/php/Products.php on line 76
+[16-Jan-2019 17:43:54 UTC] PHP Fatal error:  Cannot access empty property in /home/drordv/public_html/php/Products.php on line 16
+[16-Jan-2019 17:46:51 UTC] PHP Fatal error:  Using $this when not in object context in /home/drordv/public_html/php/Products.php on line 74
+[16-Jan-2019 17:48:57 UTC] PHP Fatal error:  Cannot access empty property in /home/drordv/public_html/php/Products.php on line 16
+[16-Jan-2019 17:49:25 UTC] PHP Fatal error:  Cannot access empty property in /home/drordv/public_html/php/Products.php on line 16
+[16-Jan-2019 17:49:29 UTC] PHP Fatal error:  Cannot access empty property in /home/drordv/public_html/php/Products.php on line 16
+[16-Jan-2019 17:49:42 UTC] PHP Fatal error:  Cannot access empty property in /home/drordv/public_html/php/Products.php on line 16
+[16-Jan-2019 17:52:09 UTC] PHP Fatal error:  Cannot access empty property in /home/drordv/public_html/php/Products.php on line 16
+[16-Jan-2019 17:52:30 UTC] PHP Fatal error:  Cannot access empty property in /home/drordv/public_html/php/Products.php on line 16
+[16-Jan-2019 17:53:13 UTC] PHP Fatal error:  Cannot access empty property in /home/drordv/public_html/php/Products.php on line 16
+[16-Jan-2019 21:03:22 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/drordv/public_html/Includes/myAccount.php on line 3
+[17-Jan-2019 17:58:45 UTC] PHP Fatal error:  Call to undefined function setNewUser() in /home/drordv/public_html/php/User.php on line 59
+[17-Jan-2019 17:59:11 UTC] PHP Fatal error:  Call to a member function getUserId() on string in /home/drordv/public_html/php/Session.php on line 25
+[17-Jan-2019 18:04:09 UTC] PHP Fatal error:  Call to undefined function getsignin() in /home/drordv/public_html/php/Session.php on line 13
+[17-Jan-2019 18:06:22 UTC] PHP Fatal error:  Call to private method Session::checkLogin() from context '' in /home/drordv/public_html/Includes/Login.php on line 5
+[24-Jan-2019 10:52:42 UTC] PHP Fatal error:  Call to a member function getName() on null in /home/drordv/public_html/Includes/Collection.php on line 84
+[25-Jan-2019 02:08:08 UTC] PHP Parse error:  syntax error, unexpected '$productId' (T_VARIABLE), expecting ',' or ';' in /home/drordv/public_html/Includes/Collection.php on line 75
+[25-Jan-2019 13:18:33 UTC] PHP Fatal error:  Call to undefined function value() in /home/drordv/public_html/Includes/contactUs.php on line 100
+[25-Jan-2019 13:32:55 UTC] PHP Parse error:  syntax error, unexpected '").value.toUpperCase(); Swal.f' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/drordv/public_html/Includes/contactUs.php on line 110
+[25-Jan-2019 14:18:34 UTC] PHP Parse error:  syntax error, unexpected '','' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/drordv/public_html/Includes/contactUs.php on line 114
+[25-Jan-2019 14:25:48 UTC] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE), expecting ',' or ';' in /home/drordv/public_html/Includes/contactUs.php on line 114
+[25-Jan-2019 14:30:50 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/drordv/public_html/Includes/contactUs.php on line 119
+[25-Jan-2019 14:30:55 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/drordv/public_html/Includes/contactUs.php on line 119
+[06-Feb-2019 17:10:05 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/drordv/public_html/Includes/contactUs.php on line 115
+[06-Feb-2019 17:10:09 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/drordv/public_html/Includes/contactUs.php on line 115

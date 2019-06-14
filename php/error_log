@@ -1,0 +1,20 @@
+[13-Jan-2019 04:18:20 UTC] PHP Fatal error:  Call to undefined method User::getUserDetails() in /home/drordv/public_html/php/ajaxReq.php on line 7
+[13-Jan-2019 04:19:53 UTC] PHP Fatal error:  Call to undefined method User::getUserDetails() in /home/drordv/public_html/php/ajaxReq.php on line 7
+[13-Jan-2019 04:20:58 UTC] PHP Fatal error:  Call to undefined method User::getUserDetails() in /home/drordv/public_html/php/ajaxReq.php on line 7
+[13-Jan-2019 04:21:31 UTC] PHP Fatal error:  Call to undefined method User::getUserDetails() in /home/drordv/public_html/php/ajaxReq.php on line 7
+[13-Jan-2019 04:22:46 UTC] PHP Fatal error:  Call to undefined method User::getUserDetails() in /home/drordv/public_html/php/ajaxReq.php on line 7
+[25-Jan-2019 10:17:30 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/drordv/public_html/php/ajaxReq.php on line 14
+[25-Jan-2019 10:17:47 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/drordv/public_html/php/ajaxReq.php on line 14
+[26-Jan-2019 03:07:14 UTC] PHP Fatal error:  Call to undefined method User::getUserOrders() in /home/drordv/public_html/php/ajaxGetUserOrders.php on line 6
+[26-Jan-2019 06:11:06 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on array in /home/drordv/public_html/php/User.php on line 35
+[26-Jan-2019 06:12:09 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on array in /home/drordv/public_html/php/User.php on line 35
+[26-Jan-2019 06:12:42 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on array in /home/drordv/public_html/php/User.php on line 35
+[26-Jan-2019 06:14:09 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on array in /home/drordv/public_html/php/User.php on line 35
+[26-Jan-2019 06:18:41 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on array in /home/drordv/public_html/php/User.php on line 35
+[06-Feb-2019 20:17:34 UTC] PHP Fatal error:  Call to undefined method User::getUserRecomendation() in /home/drordv/public_html/php/ajaxGetUserRecomendation.php on line 6
+[06-Feb-2019 20:19:12 UTC] PHP Fatal error:  Call to undefined method User::getUserRecomendation() in /home/drordv/public_html/php/ajaxGetUserRecomendation.php on line 6
+[06-Feb-2019 20:19:21 UTC] PHP Fatal error:  Call to undefined method User::getUserRecomendation() in /home/drordv/public_html/php/ajaxGetUserRecomendation.php on line 6
+[07-Feb-2019 18:19:51 UTC] PHP Fatal error:  Call to undefined function encodeURIComponent() in /home/drordv/public_html/php/ajaxGetProductPerCity.php on line 6
+[07-Feb-2019 18:23:55 UTC] PHP Fatal error:  Call to undefined function encodeURIComponent() in /home/drordv/public_html/php/ajaxGetProductPerCity.php on line 6
+[07-Feb-2019 18:25:37 UTC] PHP Fatal error:  Call to undefined function encodeURIComponent() in /home/drordv/public_html/php/ajaxGetProductPerCity.php on line 6
+[07-Feb-2019 18:26:45 UTC] PHP Fatal error:  Call to undefined function encodeURIComponent() in /home/drordv/public_html/php/ajaxGetProductPerCity.php on line 6
